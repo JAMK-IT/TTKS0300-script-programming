@@ -1,7 +1,7 @@
 # TTKS0300-script-programming
 
 Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
-Class: D330
+Class: D327
 
 (Optima: https://optima.jamk.fi/)
 
