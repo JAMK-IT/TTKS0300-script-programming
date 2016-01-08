@@ -10,9 +10,9 @@ Class: D327
 |:--------|:----------:|-----:|
 | 11.1. | Curse introduction, Python basics | ... |
 | 18.1. | Syntax, data types | ... |
-| 25.1. | ... | ... |
-| 1.2. | ... | ... |
-| 8.2. | ... | ... |
+| 25.1. | Operators, scope | ... |
+| 1.2. | Errors & exceptions | ... |
+| 8.2. | Modules & packages | ... |
 | 15.2. | ... | ... |
 | 22.2. | ... | ... |
 | 29.2. | ... | ... |
