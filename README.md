@@ -1,6 +1,9 @@
 # TTKS0300-script-programming
 
-**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]
+Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
+Class: D330
+
+(Optima: https://optima.jamk.fi/)
 
 ## Timetable
 | Day | Subject | Exercises |
