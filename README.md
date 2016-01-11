@@ -3,7 +3,8 @@
 Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
 Class: D327
 
-(Optima: https://optima.jamk.fi/)
+Optima: https://optima.jamk.fi/
+
 (Materials from Marko Silokunnas http://student.labranet.jamk.fi/~silma/course/scriptprogramming/)
 
 ## Timetable
