@@ -8,7 +8,7 @@ Optima: https://optima.jamk.fi/
 ## Timetable
 | Day | Subject | Resources | Exercises |
 |:--------|:----------:|:-----:|---------|
-| 11.1. | Curse introduction, Python basics | Slides / Notes | ... |
+| 11.1. | Curse introduction, Python basics | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture1.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture1/) | ... |
 | 18.1. | Syntax, data types | ... | ... |
 | 25.1. | Operators, scope | ... | ... |
 | 1.2. | Errors & exceptions | ... | ... |
