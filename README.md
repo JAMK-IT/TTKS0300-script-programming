@@ -4,11 +4,12 @@ Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx
 Class: D327
 
 (Optima: https://optima.jamk.fi/)
+(Materials from Marko Silokunnas http://student.labranet.jamk.fi/~silma/course/scriptprogramming/)
 
 ## Timetable
 | Day | Subject | Resources | Exercises |
 |:--------|:----------:|:-----:|---------|
-| 11.1. | Curse introduction, Python basics | Slides / Text | ... |
+| 11.1. | Curse introduction, Python basics | Slides / Notes | ... |
 | 18.1. | Syntax, data types | ... | ... |
 | 25.1. | Operators, scope | ... | ... |
 | 1.2. | Errors & exceptions | ... | ... |
