@@ -19,7 +19,7 @@ Optima: https://optima.jamk.fi/ (we don't have a folder yet)
 | 7.3. | TBA | ... | ... |
 | 14.3. | TBA | ... | ... |
 | 21.3. | TBA, intermediate evaluation | ... | ... |
-| 28.3. | TBA | ... | ... |
+| 28.3. | Easter stuff | ... | ... |
 | 4.4. | TBA | ... | ... |
 | 11.4. | TBA | ... | ... |
 | 18.4. | TBA | ... | ... |
