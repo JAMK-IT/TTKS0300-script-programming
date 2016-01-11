@@ -8,8 +8,8 @@ Class: D327
 ## Timetable
 | Day | Subject | Resources | Exercises |
 |:--------|:----------:|:-----:|---------|
-| 11.1. | Curse introduction, Python basics | ... | ... |
-| 18.1. | Syntax, data types | Slides / Text | ... |
+| 11.1. | Curse introduction, Python basics | Slides / Text | ... |
+| 18.1. | Syntax, data types | ... | ... |
 | 25.1. | Operators, scope | ... | ... |
 | 1.2. | Errors & exceptions | ... | ... |
 | 8.2. | Modules & packages | ... | ... |
