@@ -29,5 +29,5 @@ Optima: https://optima.jamk.fi/
 
 ## Resources
 
-- Materials from Marko Silokunnas http://student.labranet.jamk.fi/~silma/course/scriptprogramming/
+- [Materials from Marko Silokunnas](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/)
 - [Github Student Pack](https://education.github.com/pack) _you want this_
