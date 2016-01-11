@@ -1,6 +1,7 @@
 # TTKS0300-script-programming
 
 Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
+Work room: 555
 Class: D327
 
 Optima: https://optima.jamk.fi/ (we don't have a folder yet)
@@ -15,7 +16,7 @@ Optima: https://optima.jamk.fi/ (we don't have a folder yet)
 | 8.2. | Modules & packages | ... | ... |
 | 15.2. | TBA | ... | ... |
 | 22.2. | TBA | ... | ... |
-| 29.2. | TBA | ... | ... |
+| 29.2. | Self-study | ... | ... |
 | 7.3. | TBA | ... | ... |
 | 14.3. | TBA | ... | ... |
 | 21.3. | TBA, intermediate evaluation | ... | ... |
