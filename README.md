@@ -10,7 +10,7 @@ Optima: https://optima.jamk.fi/ (we don't have a folder yet)
 | Day | Subject | Resources | Exercises |
 |:--------|:----------:|:-----:|---------|
 | 11.1. | Curse introduction, Python basics | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture1.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture1/) | ... |
-| 18.1. | Syntax, data types | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture2.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture2/) | ... |
+| 18.1. | Syntax, data types | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture2.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture2/) | [Assignments 1-6](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture2assignments/) |
 | 25.1. | Operators, scope | ... | ... |
 | 1.2. | Errors & exceptions | ... | ... |
 | 8.2. | Modules & packages | ... | ... |
