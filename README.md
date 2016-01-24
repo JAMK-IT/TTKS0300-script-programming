@@ -13,6 +13,10 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | Returned assignments | Grade |
 |:---:|:---:|
 | 50% | 1 |
+| 60% | 2 |
+| 70% | 3 |
+| 80% | 4 |
+| 90% | 5 |
 
 
 ## Timetable
