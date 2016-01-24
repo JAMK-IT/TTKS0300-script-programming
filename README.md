@@ -6,6 +6,15 @@ Class: D327
 
 Optima: https://optima.jamk.fi/ (we don't have a folder yet)
 
+## Assignments & grading
+
+Return your assignments as a .py files in Optima before the given deadline. The course grading is based on returned (and presented) assignments. Rough example of grading: 
+
+| Returned assignments | Grade |
+|:---:|:---:|
+| 50% | 1 |
+
+
 ## Timetable
 | Day | Subject | Resources | Exercises |
 |:--------|:----------:|:-----:|---------|
