@@ -44,4 +44,5 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 ## Resources
 
 - [Materials from Marko Silokunnas](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/)
+- [Python 2.7.x documentation](https://docs.python.org/2.7/)
 - [Github Student Pack](https://education.github.com/pack) _you want this_
