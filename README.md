@@ -8,7 +8,7 @@ Optima: https://optima.jamk.fi/
 
 ## Assignments & grading
 
-Return your assignments as a .py files in Optima before the given deadline. The course grading is based on returned (and presented) assignments. Rough example of grading: 
+Return your assignments as a .py files in Optima before the given deadline. The course grading is based on returned assignments. Be ready to present your assignments in the beginning of every lecture. Rough example of grading: 
 
 | Returned assignments | Grade |
 |:---:|:---:|
