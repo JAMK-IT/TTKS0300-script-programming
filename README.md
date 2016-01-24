@@ -4,7 +4,7 @@ Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx
 Work room: 555
 Class: D327
 
-Optima: https://optima.jamk.fi/ (we don't have a folder yet)
+Optima: https://optima.jamk.fi/
 
 ## Assignments & grading
 
