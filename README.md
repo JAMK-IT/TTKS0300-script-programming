@@ -1,6 +1,6 @@
 # TTKS0300-script-programming
 
-Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi, xxx-xxxxxxx   
+Teacher: Paavo Nelimarkka, firstname.lastname@jamk.fi  
 Work room: 555
 Class: D327
 
