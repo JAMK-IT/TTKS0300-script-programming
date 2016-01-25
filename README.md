@@ -1,6 +1,6 @@
 # TTKS0300-script-programming
 
-Teacher: Paavo Nelimarkka
+Teacher: Paavo Nelimarkka  
 Contact: D555, firstname.lastname@jamk.fi, 040 anti-spam 642 7770
 
 Class: D327
