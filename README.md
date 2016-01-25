@@ -24,7 +24,7 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 |:--------|:----------:|:-----:|---------|
 | 11.1. | Curse introduction, Python basics | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture1.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture1/) | ... |
 | 18.1. | Syntax, data types | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture2.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture2/) | [Assignments 1-6](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture2assignments/) |
-| 25.1. | Functions, operators, scope | ... | ... |
+| 25.1. | Functions, operators, scope | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture3.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture3/) | ... |
 | 1.2. | Errors & exceptions | ... | ... |
 | 8.2. | Modules & packages | ... | ... |
 | 15.2. | TBA | ... | ... |
