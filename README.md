@@ -28,7 +28,7 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 25.1. | Functions, operators, scope | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture3.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture3/) | [Assignments 7-14](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/Assignments-7-15)|
 | 1.2. | Modules & packages | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture5.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture5/) | [Assignments 15-17](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/Assignment-15-17) |
 | 8.2. | Recap | [Answers 1-14](https://www.dropbox.com/s/5dgpjs4oj4tgb4t/tarkistus_teht1-14.zip?dl=0) | ... |
-| 15.2. | Errors & exceptions | ... | ... |
+| 15.2. | Errors & exceptions | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture4.html#/) / [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture4/) | ... |
 | 22.2. | TBA | ... | ... |
 | 29.2. | Self-study | ... | ... |
 | 7.3. | TBA | ... | ... |
