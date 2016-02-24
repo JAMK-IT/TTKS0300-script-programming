@@ -35,10 +35,10 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 14.3. | TBA | ... | ... |
 | 21.3. | TBA, intermediate evaluation | ... | ... |
 | 28.3. | Easter stuff | ... | ... |
-| 4.4. | TBA | ... | ... |
-| 11.4. | TBA | ... | ... |
-| 18.4. | TBA | ... | ... |
-| 25.4. | TBA | ... | ... |
+| 4.4. | ... | ... | ... |
+| 11.4. | ... | ... | ... |
+| 18.4. | ... | ... | ... |
+| 25.4. | ... | ... | ... |
 
 
 
