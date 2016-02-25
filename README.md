@@ -38,7 +38,6 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 4.4. | ... | ... | ... |
 | 11.4. | ... | ... | ... |
 | 18.4. | ... | ... | ... |
-| 25.4. | ... | ... | ... |
 
 
 
