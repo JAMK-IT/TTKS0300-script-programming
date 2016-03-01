@@ -33,7 +33,7 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 29.2. | **Self-study** | ... | ... |
 | 7.3. | TBA | ... | ... |
 | 14.3. | TBA | ... | ... |
-| 21.3. | TBA, intermediate evaluation | ... | ... |
+| 21.3. | TBA | ... | ... |
 | 28.3. | **Easter stuff** | ... | ... |
 | 4.4. | ... | ... | ... |
 | 11.4. | ... | ... | ... |
