@@ -32,7 +32,7 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 22.2. | Input & Output | [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture6/) | [Assignments 23-29](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/assignments-23-29) |
 | 29.2. | **Self-study** | ... | ... |
 | 7.3. | More about functions | [Notes](), [Hangman exercise](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/hangman-exercise) | No assignemnts this time |
-| 14.3. | Hangman exercise, ... | ... | ... |
+| 14.3. | Hangman exercise, ... | ... | Exercise 30 |
 | 21.3. | TBA | ... | ... |
 | 28.3. | **Easter stuff** | ... | ... |
 | 4.4. | ... | ... | ... |
