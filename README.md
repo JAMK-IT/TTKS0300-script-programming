@@ -35,9 +35,7 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 14.3. | [Hangman exercise](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/hangman-exercise) | [hangman.py](http://hastebin.com/eciqupavec.py) | ... |
 | 21.3. | Basics of Object Oriented Programming | [Slides]() / [Notes]() | ... |
 | 28.3. | **Easter stuff** | ... | ... |
-| 4.4. | ... | ... | ... |
-| 11.4. | ... | ... | ... |
-| 18.4. | ... | ... | ... |
+| 4.4. | Assignment overview | ... | Additional assingments |
 
 
 
