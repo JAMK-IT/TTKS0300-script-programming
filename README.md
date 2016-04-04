@@ -34,7 +34,7 @@ Return your assignments as a .py files in Optima before the given deadline. The 
 | 7.3. | More about functions | [Notes](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture8/) | [Assignment 30](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/assignment-30) |
 | 14.3. | [Hangman exercise](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/hangman-exercise) | [hangman.py](http://hastebin.com/eciqupavec.py) | ... |
 | 21.3. | [Basics of Object Oriented Programming](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture9/), [Ineritance](http://student.labranet.jamk.fi/~silma/course/scriptprogramming/lecture10/) | [Slides](http://student.labranet.jamk.fi/~silma/slides/scriptprogramming/lecture10.html#/) | [Assignments 31-33](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/Assignments-31-33) |
-| 28.3. | No contact, [read this!]() | ... | ... |
+| 28.3. | No contact, [read this!](https://github.com/JAMK-IT/TTKS0300-script-programming/wiki/read-this-4-4) | ... | ... |
 | 11.4. | Course feedback, bonus assignment interviews, grades (hopefully) in Asio| ... | ... |
 
 
